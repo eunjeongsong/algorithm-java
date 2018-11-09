@@ -6,6 +6,11 @@ import java.util.Scanner;
  * 나머지.
  * https://www.acmicpc.net/problem/10430
  * 
+ * B = Q2 * C + R2 은    
+ * A + B = (Q1 * C) + (Q2 * C) + R1 + R2 이고, 
+ * A + B = (Q1 + Q2) * C + R1 + R2 이며,
+ * (A + B) % C = R1 + R2 이다.
+ * 
  * @author EUNJEONG SONG
  */
 public class BJ10430 {
