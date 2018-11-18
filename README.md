@@ -5,6 +5,7 @@
   - [1, 2, 3 더하기](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ9095.java)
   - [카드구매하기](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ11052.java)
   - [카드구매하기2](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ16194.java)
+  - [포도주 시식](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ2156.java)
 
 
 ### 수학
