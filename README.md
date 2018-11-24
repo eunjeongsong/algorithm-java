@@ -6,6 +6,7 @@
   - [카드구매하기](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ11052.java)
   - [카드구매하기2](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ16194.java)
   - [포도주 시식](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ2156.java)
+  - [가장 긴 증가하는 부분 수열](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ11053.java)
 
 
 ### 수학
