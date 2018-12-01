@@ -20,3 +20,8 @@
   - [나머지](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ10430.java)    
   - [최대공약수 및 최소공배수](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ2609.java) - 유클리드 호제법 사용(최대공약수).
   - [소수찾기](https://github.com/eunjeongsong/algorithm-java/blob/master/BJ1978.java) - 에라토스테네스의 체 이용.
+
+
+#### 기타
+  - 문자열 연산에는 StringBuilder가 효율 좋음 (mutable)
+  - java.util 자료구조 활용하면 빠름.
